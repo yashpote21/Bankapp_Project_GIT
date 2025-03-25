@@ -1682,3 +1682,113 @@
 2025-03-25 17:15:37,491 : INFO : test_UserLogin_003 : test_UserLogin_003 is Passed
 2025-03-25 17:15:37,491 : INFO : test_UserLogin_003 : test_UserLogin_003 is completed
 
+2025-03-25 18:24:41,253 : INFO : test_SearchUser_004 : test_SearchUser_004 is started
+2025-03-25 18:24:41,258 : INFO : test_SearchUser_004 : Opening browser
+2025-03-25 18:24:41,259 : INFO : test_SearchUser_004 : Launching URL
+2025-03-25 18:24:41,776 : INFO : test_SearchUser_004 : Click on login link
+2025-03-25 18:24:41,911 : INFO : test_SearchUser_004 : Entering Username:- YashTech
+2025-03-25 18:24:41,990 : INFO : test_SearchUser_004 : Entering Password:- YashTech@101
+2025-03-25 18:24:43,830 : INFO : test_SearchUser_004 : Click on login button
+2025-03-25 18:24:43,830 : INFO : test_SearchUser_004 : Validating User Logged In or not
+2025-03-25 18:24:43,887 : INFO : test_SearchUser_004 : User LoggedIn
+2025-03-25 18:24:44,358 : INFO : test_SearchUser_004 : Click on User Management button
+2025-03-25 18:24:44,459 : INFO : test_SearchUser_004 : Entering Username:- Tushar
+2025-03-25 18:24:44,555 : INFO : test_SearchUser_004 : CLick on Search User button
+2025-03-25 18:24:44,555 : INFO : test_SearchUser_004 : Validate User found or not
+2025-03-25 18:24:45,105 : INFO : test_SearchUser_004 : User found
+2025-03-25 18:24:45,105 : INFO : test_SearchUser_004 : Capturing screenshot
+2025-03-25 18:24:45,400 : INFO : test_SearchUser_004 : test_SearchUser_004 is Passed
+2025-03-25 18:24:45,400 : INFO : test_SearchUser_004 : test_SearchUser_004 is Completed
+
+2025-03-25 18:24:52,945 : INFO : test_BankApp_URL_001 : test_BankApp_URL_001 is started
+2025-03-25 18:24:52,947 : INFO : test_BankApp_URL_001 : Opening browser
+2025-03-25 18:24:52,947 : INFO : test_BankApp_URL_001 : Launching URL
+2025-03-25 18:24:52,947 : INFO : test_BankApp_URL_001 : Validating launching correct page or not
+2025-03-25 18:24:52,964 : INFO : test_BankApp_URL_001 : Launching on correct page
+2025-03-25 18:24:52,965 : INFO : test_BankApp_URL_001 : Capturing test_BankApp_URL_001_Pass screenshot
+2025-03-25 18:24:53,413 : INFO : test_BankApp_URL_001 : test_BankApp_URL_001 is Passed
+2025-03-25 18:24:53,413 : INFO : test_BankApp_URL_001 : test_BankApp_URL_001 is Completed
+
+2025-03-25 18:25:01,374 : INFO : test_Signup_002 : test_Signup_002 is started
+2025-03-25 18:25:01,374 : INFO : test_Signup_002 : Opening browser
+2025-03-25 18:25:01,374 : INFO : test_Signup_002 : Launching URL
+2025-03-25 18:25:01,374 : INFO : test_Signup_002 : Click on SignUp link
+2025-03-25 18:25:02,439 : INFO : test_Signup_002 : Enter Username:- UserX5gL
+2025-03-25 18:25:02,505 : INFO : test_Signup_002 : Enter Password:- MyPass@101
+2025-03-25 18:25:02,596 : INFO : test_Signup_002 : Enter Email:- UserX5gL@gmail.com
+2025-03-25 18:25:02,667 : INFO : test_Signup_002 : Enter Phone Number:- 3235653527
+2025-03-25 18:25:02,667 : INFO : test_Signup_002 : Click on Create User button
+2025-03-25 18:25:05,343 : INFO : test_Signup_002 : Validating User Created or not
+2025-03-25 18:25:05,370 : INFO : test_Signup_002 : User created successfully
+2025-03-25 18:25:05,370 : INFO : test_Signup_002 : Capturing test_Signup_002_Pass screenshot
+2025-03-25 18:25:06,385 : INFO : test_Signup_002 : test_Signup_002 is Passed
+2025-03-25 18:25:06,385 : INFO : test_Signup_002 : test_Signup_002 is completed
+
+2025-03-25 18:25:13,190 : INFO : test_UserLogin_003 : test_UserLogin_003 is started
+2025-03-25 18:25:13,190 : INFO : test_UserLogin_003 : Opening browser
+2025-03-25 18:25:13,190 : INFO : test_UserLogin_003 : Launching URL
+2025-03-25 18:25:13,190 : INFO : test_UserLogin_003 : Click on Log In link
+2025-03-25 18:25:14,205 : INFO : test_UserLogin_003 : Entering Username:- YashTech
+2025-03-25 18:25:14,281 : INFO : test_UserLogin_003 : Entering Password:- YashTech@101
+2025-03-25 18:25:14,281 : INFO : test_UserLogin_003 : Click on Log In button
+2025-03-25 18:25:15,685 : INFO : test_UserLogin_003 : Validating User Logged In or not
+2025-03-25 18:25:15,723 : INFO : test_UserLogin_003 : User LoggedIn
+2025-03-25 18:25:15,723 : INFO : test_UserLogin_003 : Capturing test_UserLogin_003_Pass screenshot
+2025-03-25 18:25:16,137 : INFO : test_UserLogin_003 : test_UserLogin_003 is Passed
+2025-03-25 18:25:16,137 : INFO : test_UserLogin_003 : test_UserLogin_003 is completed
+
+2025-03-25 18:30:52,708 : INFO : test_SearchUser_004 : test_SearchUser_004 is started
+2025-03-25 18:30:52,711 : INFO : test_SearchUser_004 : Opening browser
+2025-03-25 18:30:52,711 : INFO : test_SearchUser_004 : Launching URL
+2025-03-25 18:30:53,477 : INFO : test_SearchUser_004 : Click on login link
+2025-03-25 18:30:53,745 : INFO : test_SearchUser_004 : Entering Username:- YashTech
+2025-03-25 18:30:53,905 : INFO : test_SearchUser_004 : Entering Password:- YashTech@101
+2025-03-25 18:30:56,406 : INFO : test_SearchUser_004 : Click on login button
+2025-03-25 18:30:56,406 : INFO : test_SearchUser_004 : Validating User Logged In or not
+2025-03-25 18:30:56,538 : INFO : test_SearchUser_004 : User LoggedIn
+2025-03-25 18:30:57,126 : INFO : test_SearchUser_004 : Click on User Management button
+2025-03-25 18:30:57,405 : INFO : test_SearchUser_004 : Entering Username:- Tushar
+2025-03-25 18:30:58,071 : INFO : test_SearchUser_004 : CLick on Search User button
+2025-03-25 18:30:58,071 : INFO : test_SearchUser_004 : Validate User found or not
+2025-03-25 18:30:58,141 : INFO : test_SearchUser_004 : User found
+2025-03-25 18:30:58,141 : INFO : test_SearchUser_004 : Capturing screenshot
+2025-03-25 18:30:59,107 : INFO : test_SearchUser_004 : test_SearchUser_004 is Passed
+2025-03-25 18:30:59,107 : INFO : test_SearchUser_004 : test_SearchUser_004 is Completed
+
+2025-03-25 18:31:06,393 : INFO : test_BankApp_URL_001 : test_BankApp_URL_001 is started
+2025-03-25 18:31:06,395 : INFO : test_BankApp_URL_001 : Opening browser
+2025-03-25 18:31:06,395 : INFO : test_BankApp_URL_001 : Launching URL
+2025-03-25 18:31:06,395 : INFO : test_BankApp_URL_001 : Validating launching correct page or not
+2025-03-25 18:31:06,408 : INFO : test_BankApp_URL_001 : Launching on correct page
+2025-03-25 18:31:06,408 : INFO : test_BankApp_URL_001 : Capturing test_BankApp_URL_001_Pass screenshot
+2025-03-25 18:31:07,639 : INFO : test_BankApp_URL_001 : test_BankApp_URL_001 is Passed
+2025-03-25 18:31:07,639 : INFO : test_BankApp_URL_001 : test_BankApp_URL_001 is Completed
+
+2025-03-25 18:31:14,830 : INFO : test_Signup_002 : test_Signup_002 is started
+2025-03-25 18:31:14,832 : INFO : test_Signup_002 : Opening browser
+2025-03-25 18:31:14,832 : INFO : test_Signup_002 : Launching URL
+2025-03-25 18:31:14,832 : INFO : test_Signup_002 : Click on SignUp link
+2025-03-25 18:31:16,288 : INFO : test_Signup_002 : Enter Username:- UserN1F8
+2025-03-25 18:31:16,447 : INFO : test_Signup_002 : Enter Password:- MyPass@101
+2025-03-25 18:31:16,621 : INFO : test_Signup_002 : Enter Email:- UserN1F8@gmail.com
+2025-03-25 18:31:16,729 : INFO : test_Signup_002 : Enter Phone Number:- 5679697028
+2025-03-25 18:31:16,729 : INFO : test_Signup_002 : Click on Create User button
+2025-03-25 18:31:19,272 : INFO : test_Signup_002 : Validating User Created or not
+2025-03-25 18:31:19,318 : INFO : test_Signup_002 : User created successfully
+2025-03-25 18:31:19,320 : INFO : test_Signup_002 : Capturing test_Signup_002_Pass screenshot
+2025-03-25 18:31:20,645 : INFO : test_Signup_002 : test_Signup_002 is Passed
+2025-03-25 18:31:20,645 : INFO : test_Signup_002 : test_Signup_002 is completed
+
+2025-03-25 18:31:28,304 : INFO : test_UserLogin_003 : test_UserLogin_003 is started
+2025-03-25 18:31:28,304 : INFO : test_UserLogin_003 : Opening browser
+2025-03-25 18:31:28,305 : INFO : test_UserLogin_003 : Launching URL
+2025-03-25 18:31:28,305 : INFO : test_UserLogin_003 : Click on Log In link
+2025-03-25 18:31:29,587 : INFO : test_UserLogin_003 : Entering Username:- YashTech
+2025-03-25 18:31:29,712 : INFO : test_UserLogin_003 : Entering Password:- YashTech@101
+2025-03-25 18:31:29,712 : INFO : test_UserLogin_003 : Click on Log In button
+2025-03-25 18:31:31,589 : INFO : test_UserLogin_003 : Validating User Logged In or not
+2025-03-25 18:31:31,670 : INFO : test_UserLogin_003 : User LoggedIn
+2025-03-25 18:31:31,670 : INFO : test_UserLogin_003 : Capturing test_UserLogin_003_Pass screenshot
+2025-03-25 18:31:32,927 : INFO : test_UserLogin_003 : test_UserLogin_003 is Passed
+2025-03-25 18:31:32,927 : INFO : test_UserLogin_003 : test_UserLogin_003 is completed
+
