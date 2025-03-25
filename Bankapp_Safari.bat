@@ -1,0 +1,1 @@
+pytest -v -s --browser safari --html="HTMLReports\Bankapp_Safari.html" -p no:warnings

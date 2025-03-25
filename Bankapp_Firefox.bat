@@ -1,0 +1,1 @@
+pytest -v -s --browser firefox --html="HTMLReports\Bankapp_Firefox.html" -p no:warnings
