@@ -16,7 +16,7 @@ class Test_SearchUser_Excel_DDT_Class:
 
     log = Log_Class.loggen()
 
-    @pytest.mark.skip(reason="No way of currently test this...")
+    # @pytest.mark.skip(reason="No way of currently test this...")
     def test_SearchUser_Excel_DDT_006(self, setup):
         self.log.info("test_SearchUser_Excel_DDT_006 is started")
         self.log.info("Opening browser")

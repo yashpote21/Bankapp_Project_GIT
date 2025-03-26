@@ -1902,3 +1902,473 @@
 2025-03-25 18:55:50,249 : INFO : test_UserLogin_003 : test_UserLogin_003 is Passed
 2025-03-25 18:55:50,249 : INFO : test_UserLogin_003 : test_UserLogin_003 is completed
 
+2025-03-25 19:20:55,173 : INFO : test_SearchUser_004 : test_SearchUser_004 is started
+2025-03-25 19:20:55,173 : INFO : test_SearchUser_004 : Opening browser
+2025-03-25 19:20:55,173 : INFO : test_SearchUser_004 : Launching URL
+2025-03-25 19:20:56,446 : INFO : test_SearchUser_004 : Click on login link
+2025-03-25 19:20:56,573 : INFO : test_SearchUser_004 : Entering Username:- YashTech
+2025-03-25 19:20:56,684 : INFO : test_SearchUser_004 : Entering Password:- YashTech@101
+2025-03-25 19:20:59,122 : INFO : test_SearchUser_004 : Click on login button
+2025-03-25 19:20:59,126 : INFO : test_SearchUser_004 : Validating User Logged In or not
+2025-03-25 19:20:59,169 : INFO : test_SearchUser_004 : User LoggedIn
+2025-03-25 19:20:59,845 : INFO : test_SearchUser_004 : Click on User Management button
+2025-03-25 19:20:59,943 : INFO : test_SearchUser_004 : Entering Username:- Tushar
+2025-03-25 19:21:00,749 : INFO : test_SearchUser_004 : CLick on Search User button
+2025-03-25 19:21:00,749 : INFO : test_SearchUser_004 : Validate User found or not
+2025-03-25 19:21:00,780 : INFO : test_SearchUser_004 : User found
+2025-03-25 19:21:00,780 : INFO : test_SearchUser_004 : Capturing screenshot
+2025-03-25 19:21:01,032 : INFO : test_SearchUser_004 : test_SearchUser_004 is Passed
+2025-03-25 19:21:01,032 : INFO : test_SearchUser_004 : test_SearchUser_004 is Completed
+
+2025-03-25 19:21:08,993 : INFO : test_BankApp_URL_001 : test_BankApp_URL_001 is started
+2025-03-25 19:21:08,993 : INFO : test_BankApp_URL_001 : Opening browser
+2025-03-25 19:21:08,993 : INFO : test_BankApp_URL_001 : Launching URL
+2025-03-25 19:21:08,993 : INFO : test_BankApp_URL_001 : Validating launching correct page or not
+2025-03-25 19:21:09,010 : INFO : test_BankApp_URL_001 : Launching on correct page
+2025-03-25 19:21:09,011 : INFO : test_BankApp_URL_001 : Capturing test_BankApp_URL_001_Pass screenshot
+2025-03-25 19:21:09,507 : INFO : test_BankApp_URL_001 : test_BankApp_URL_001 is Passed
+2025-03-25 19:21:09,507 : INFO : test_BankApp_URL_001 : test_BankApp_URL_001 is Completed
+
+2025-03-25 19:21:16,776 : INFO : test_Signup_002 : test_Signup_002 is started
+2025-03-25 19:21:16,776 : INFO : test_Signup_002 : Opening browser
+2025-03-25 19:21:16,776 : INFO : test_Signup_002 : Launching URL
+2025-03-25 19:21:16,776 : INFO : test_Signup_002 : Click on SignUp link
+2025-03-25 19:21:17,819 : INFO : test_Signup_002 : Enter Username:- User1CwO
+2025-03-25 19:21:17,895 : INFO : test_Signup_002 : Enter Password:- MyPass@101
+2025-03-25 19:21:17,995 : INFO : test_Signup_002 : Enter Email:- User1CwO@gmail.com
+2025-03-25 19:21:18,059 : INFO : test_Signup_002 : Enter Phone Number:- 1857272241
+2025-03-25 19:21:18,059 : INFO : test_Signup_002 : Click on Create User button
+2025-03-25 19:21:20,614 : INFO : test_Signup_002 : Validating User Created or not
+2025-03-25 19:21:20,665 : INFO : test_Signup_002 : User created successfully
+2025-03-25 19:21:20,665 : INFO : test_Signup_002 : Capturing test_Signup_002_Pass screenshot
+2025-03-25 19:21:21,556 : INFO : test_Signup_002 : test_Signup_002 is Passed
+2025-03-25 19:21:21,556 : INFO : test_Signup_002 : test_Signup_002 is completed
+
+2025-03-25 19:21:29,162 : INFO : test_UserLogin_003 : test_UserLogin_003 is started
+2025-03-25 19:21:29,162 : INFO : test_UserLogin_003 : Opening browser
+2025-03-25 19:21:29,162 : INFO : test_UserLogin_003 : Launching URL
+2025-03-25 19:21:29,162 : INFO : test_UserLogin_003 : Click on Log In link
+2025-03-25 19:21:30,270 : INFO : test_UserLogin_003 : Entering Username:- YashTech
+2025-03-25 19:21:30,346 : INFO : test_UserLogin_003 : Entering Password:- YashTech@101
+2025-03-25 19:21:30,346 : INFO : test_UserLogin_003 : Click on Log In button
+2025-03-25 19:21:32,450 : INFO : test_UserLogin_003 : Validating User Logged In or not
+2025-03-25 19:21:32,490 : INFO : test_UserLogin_003 : User LoggedIn
+2025-03-25 19:21:32,490 : INFO : test_UserLogin_003 : Capturing test_UserLogin_003_Pass screenshot
+2025-03-25 19:21:32,962 : INFO : test_UserLogin_003 : test_UserLogin_003 is Passed
+2025-03-25 19:21:32,962 : INFO : test_UserLogin_003 : test_UserLogin_003 is completed
+
+2025-03-25 19:21:59,166 : INFO : test_SearchUser_004 : test_SearchUser_004 is started
+2025-03-25 19:21:59,166 : INFO : test_SearchUser_004 : Opening browser
+2025-03-25 19:21:59,169 : INFO : test_SearchUser_004 : Launching URL
+2025-03-25 19:22:00,082 : INFO : test_SearchUser_004 : Click on login link
+2025-03-25 19:22:00,198 : INFO : test_SearchUser_004 : Entering Username:- YashTech
+2025-03-25 19:22:00,271 : INFO : test_SearchUser_004 : Entering Password:- YashTech@101
+2025-03-25 19:22:02,149 : INFO : test_SearchUser_004 : Click on login button
+2025-03-25 19:22:02,149 : INFO : test_SearchUser_004 : Validating User Logged In or not
+2025-03-25 19:22:02,193 : INFO : test_SearchUser_004 : User LoggedIn
+2025-03-25 19:22:02,786 : INFO : test_SearchUser_004 : Click on User Management button
+2025-03-25 19:22:02,859 : INFO : test_SearchUser_004 : Entering Username:- Tushar
+2025-03-25 19:22:03,346 : INFO : test_SearchUser_004 : CLick on Search User button
+2025-03-25 19:22:03,347 : INFO : test_SearchUser_004 : Validate User found or not
+2025-03-25 19:22:03,431 : INFO : test_SearchUser_004 : User found
+2025-03-25 19:22:03,431 : INFO : test_SearchUser_004 : Capturing screenshot
+2025-03-25 19:22:03,695 : INFO : test_SearchUser_004 : test_SearchUser_004 is Passed
+2025-03-25 19:22:03,695 : INFO : test_SearchUser_004 : test_SearchUser_004 is Completed
+
+2025-03-25 19:22:10,638 : INFO : test_BankApp_URL_001 : test_BankApp_URL_001 is started
+2025-03-25 19:22:10,638 : INFO : test_BankApp_URL_001 : Opening browser
+2025-03-25 19:22:10,638 : INFO : test_BankApp_URL_001 : Launching URL
+2025-03-25 19:22:10,638 : INFO : test_BankApp_URL_001 : Validating launching correct page or not
+2025-03-25 19:22:10,650 : INFO : test_BankApp_URL_001 : Launching on correct page
+2025-03-25 19:22:10,650 : INFO : test_BankApp_URL_001 : Capturing test_BankApp_URL_001_Pass screenshot
+2025-03-25 19:22:11,026 : INFO : test_BankApp_URL_001 : test_BankApp_URL_001 is Passed
+2025-03-25 19:22:11,026 : INFO : test_BankApp_URL_001 : test_BankApp_URL_001 is Completed
+
+2025-03-25 19:22:19,033 : INFO : test_Signup_002 : test_Signup_002 is started
+2025-03-25 19:22:19,033 : INFO : test_Signup_002 : Opening browser
+2025-03-25 19:22:19,033 : INFO : test_Signup_002 : Launching URL
+2025-03-25 19:22:19,033 : INFO : test_Signup_002 : Click on SignUp link
+2025-03-25 19:22:20,042 : INFO : test_Signup_002 : Enter Username:- UserVoVp
+2025-03-25 19:22:20,137 : INFO : test_Signup_002 : Enter Password:- MyPass@101
+2025-03-25 19:22:20,222 : INFO : test_Signup_002 : Enter Email:- UserVoVp@gmail.com
+2025-03-25 19:22:20,278 : INFO : test_Signup_002 : Enter Phone Number:- 2607924188
+2025-03-25 19:22:20,278 : INFO : test_Signup_002 : Click on Create User button
+2025-03-25 19:22:22,908 : INFO : test_Signup_002 : Validating User Created or not
+2025-03-25 19:22:22,937 : INFO : test_Signup_002 : User created successfully
+2025-03-25 19:22:22,939 : INFO : test_Signup_002 : Capturing test_Signup_002_Pass screenshot
+2025-03-25 19:22:24,015 : INFO : test_Signup_002 : test_Signup_002 is Passed
+2025-03-25 19:22:24,015 : INFO : test_Signup_002 : test_Signup_002 is completed
+
+2025-03-25 19:22:32,230 : INFO : test_UserLogin_003 : test_UserLogin_003 is started
+2025-03-25 19:22:32,230 : INFO : test_UserLogin_003 : Opening browser
+2025-03-25 19:22:32,230 : INFO : test_UserLogin_003 : Launching URL
+2025-03-25 19:22:32,230 : INFO : test_UserLogin_003 : Click on Log In link
+2025-03-25 19:22:33,257 : INFO : test_UserLogin_003 : Entering Username:- YashTech
+2025-03-25 19:22:33,332 : INFO : test_UserLogin_003 : Entering Password:- YashTech@101
+2025-03-25 19:22:33,332 : INFO : test_UserLogin_003 : Click on Log In button
+2025-03-25 19:22:35,302 : INFO : test_UserLogin_003 : Validating User Logged In or not
+2025-03-25 19:22:35,344 : INFO : test_UserLogin_003 : User LoggedIn
+2025-03-25 19:22:35,344 : INFO : test_UserLogin_003 : Capturing test_UserLogin_003_Pass screenshot
+2025-03-25 19:22:35,784 : INFO : test_UserLogin_003 : test_UserLogin_003 is Passed
+2025-03-25 19:22:35,784 : INFO : test_UserLogin_003 : test_UserLogin_003 is completed
+
+2025-03-25 19:23:07,346 : INFO : test_SearchUser_004 : test_SearchUser_004 is started
+2025-03-25 19:23:07,349 : INFO : test_SearchUser_004 : Opening browser
+2025-03-25 19:23:07,349 : INFO : test_SearchUser_004 : Launching URL
+2025-03-25 19:23:08,422 : INFO : test_SearchUser_004 : Click on login link
+2025-03-25 19:23:08,499 : INFO : test_SearchUser_004 : Entering Username:- YashTech
+2025-03-25 19:23:08,525 : INFO : test_SearchUser_004 : Entering Password:- YashTech@101
+2025-03-25 19:23:10,122 : INFO : test_SearchUser_004 : Click on login button
+2025-03-25 19:23:10,122 : INFO : test_SearchUser_004 : Validating User Logged In or not
+2025-03-25 19:23:10,145 : INFO : test_SearchUser_004 : User LoggedIn
+2025-03-25 19:23:10,762 : INFO : test_SearchUser_004 : Click on User Management button
+2025-03-25 19:23:10,793 : INFO : test_SearchUser_004 : Entering Username:- Tushar
+2025-03-25 19:23:11,378 : INFO : test_SearchUser_004 : CLick on Search User button
+2025-03-25 19:23:11,378 : INFO : test_SearchUser_004 : Validate User found or not
+2025-03-25 19:23:11,396 : INFO : test_SearchUser_004 : User found
+2025-03-25 19:23:11,396 : INFO : test_SearchUser_004 : Capturing screenshot
+2025-03-25 19:23:11,505 : INFO : test_SearchUser_004 : test_SearchUser_004 is Passed
+2025-03-25 19:23:11,508 : INFO : test_SearchUser_004 : test_SearchUser_004 is Completed
+
+2025-03-25 19:23:24,242 : INFO : test_BankApp_URL_001 : test_BankApp_URL_001 is started
+2025-03-25 19:23:24,242 : INFO : test_BankApp_URL_001 : Opening browser
+2025-03-25 19:23:24,242 : INFO : test_BankApp_URL_001 : Launching URL
+2025-03-25 19:23:24,242 : INFO : test_BankApp_URL_001 : Validating launching correct page or not
+2025-03-25 19:23:24,252 : INFO : test_BankApp_URL_001 : Launching on correct page
+2025-03-25 19:23:24,252 : INFO : test_BankApp_URL_001 : Capturing test_BankApp_URL_001_Pass screenshot
+2025-03-25 19:23:24,513 : INFO : test_BankApp_URL_001 : test_BankApp_URL_001 is Passed
+2025-03-25 19:23:24,513 : INFO : test_BankApp_URL_001 : test_BankApp_URL_001 is Completed
+
+2025-03-25 19:23:38,579 : INFO : test_Signup_002 : test_Signup_002 is started
+2025-03-25 19:23:38,579 : INFO : test_Signup_002 : Opening browser
+2025-03-25 19:23:38,579 : INFO : test_Signup_002 : Launching URL
+2025-03-25 19:23:38,579 : INFO : test_Signup_002 : Click on SignUp link
+2025-03-25 19:23:39,622 : INFO : test_Signup_002 : Enter Username:- User0usy
+2025-03-25 19:23:39,646 : INFO : test_Signup_002 : Enter Password:- MyPass@101
+2025-03-25 19:23:39,676 : INFO : test_Signup_002 : Enter Email:- User0usy@gmail.com
+2025-03-25 19:23:39,697 : INFO : test_Signup_002 : Enter Phone Number:- 7552912766
+2025-03-25 19:23:39,697 : INFO : test_Signup_002 : Click on Create User button
+2025-03-25 19:23:42,238 : INFO : test_Signup_002 : Validating User Created or not
+2025-03-25 19:23:42,245 : INFO : test_Signup_002 : User created successfully
+2025-03-25 19:23:42,245 : INFO : test_Signup_002 : Capturing test_Signup_002_Pass screenshot
+2025-03-25 19:23:42,866 : INFO : test_Signup_002 : test_Signup_002 is Passed
+2025-03-25 19:23:42,866 : INFO : test_Signup_002 : test_Signup_002 is completed
+
+2025-03-25 19:23:56,702 : INFO : test_UserLogin_003 : test_UserLogin_003 is started
+2025-03-25 19:23:56,702 : INFO : test_UserLogin_003 : Opening browser
+2025-03-25 19:23:56,702 : INFO : test_UserLogin_003 : Launching URL
+2025-03-25 19:23:56,702 : INFO : test_UserLogin_003 : Click on Log In link
+2025-03-25 19:23:57,312 : INFO : test_UserLogin_003 : Entering Username:- YashTech
+2025-03-25 19:23:57,342 : INFO : test_UserLogin_003 : Entering Password:- YashTech@101
+2025-03-25 19:23:57,342 : INFO : test_UserLogin_003 : Click on Log In button
+2025-03-25 19:23:58,652 : INFO : test_UserLogin_003 : Validating User Logged In or not
+2025-03-25 19:23:58,673 : INFO : test_UserLogin_003 : User LoggedIn
+2025-03-25 19:23:58,673 : INFO : test_UserLogin_003 : Capturing test_UserLogin_003_Pass screenshot
+2025-03-25 19:23:58,855 : INFO : test_UserLogin_003 : test_UserLogin_003 is Passed
+2025-03-25 19:23:58,855 : INFO : test_UserLogin_003 : test_UserLogin_003 is completed
+
+2025-03-26 09:52:04,994 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_Excel_DDT_006 is started
+2025-03-26 09:52:04,995 : INFO : test_SearchUser_Excel_DDT_006 : Opening browser
+2025-03-26 09:52:04,995 : INFO : test_SearchUser_Excel_DDT_006 : Launching URL
+2025-03-26 09:52:05,876 : INFO : test_SearchUser_Excel_DDT_006 : Click on login link
+2025-03-26 09:52:06,038 : INFO : test_SearchUser_Excel_DDT_006 : Entering Username:- YashTech
+2025-03-26 09:52:06,160 : INFO : test_SearchUser_Excel_DDT_006 : Entering Password:- YashTech@101
+2025-03-26 09:52:08,175 : INFO : test_SearchUser_Excel_DDT_006 : Click on login button
+2025-03-26 09:52:08,176 : INFO : test_SearchUser_Excel_DDT_006 : Validating User Logged In or not
+2025-03-26 09:52:08,214 : INFO : test_SearchUser_Excel_DDT_006 : User LoggedIn
+2025-03-26 09:52:08,796 : INFO : test_SearchUser_Excel_DDT_006 : Click on User Management button
+2025-03-26 09:52:08,958 : INFO : test_SearchUser_Excel_DDT_006 : Entering Username:- Admin
+2025-03-26 09:52:09,585 : INFO : test_SearchUser_Excel_DDT_006 : CLick on Search User button
+2025-03-26 09:52:09,585 : INFO : test_SearchUser_Excel_DDT_006 : Validate User found or not
+2025-03-26 09:52:09,835 : INFO : test_SearchUser_Excel_DDT_006 : User found
+2025-03-26 09:52:09,835 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_005 is Passed
+2025-03-26 09:52:11,049 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_005 is Completed
+
+2025-03-26 09:52:11,228 : INFO : test_SearchUser_Excel_DDT_006 : Entering Username:- Yashp
+2025-03-26 09:52:11,837 : INFO : test_SearchUser_Excel_DDT_006 : CLick on Search User button
+2025-03-26 09:52:11,838 : INFO : test_SearchUser_Excel_DDT_006 : Validate User found or not
+2025-03-26 09:52:12,057 : INFO : test_SearchUser_Excel_DDT_006 : User found
+2025-03-26 09:52:12,057 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_005 is Passed
+2025-03-26 09:52:13,307 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_005 is Completed
+
+2025-03-26 09:52:13,490 : INFO : test_SearchUser_Excel_DDT_006 : Entering Username:- Tushar
+2025-03-26 09:52:14,095 : INFO : test_SearchUser_Excel_DDT_006 : CLick on Search User button
+2025-03-26 09:52:14,095 : INFO : test_SearchUser_Excel_DDT_006 : Validate User found or not
+2025-03-26 09:52:14,347 : INFO : test_SearchUser_Excel_DDT_006 : User not found
+2025-03-26 09:52:14,347 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_005 is Failed
+
+2025-03-26 09:52:15,456 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_005 is Completed
+
+2025-03-26 09:52:15,630 : INFO : test_SearchUser_Excel_DDT_006 : Entering Username:- Barclays
+2025-03-26 09:52:16,179 : INFO : test_SearchUser_Excel_DDT_006 : CLick on Search User button
+2025-03-26 09:52:16,180 : INFO : test_SearchUser_Excel_DDT_006 : Validate User found or not
+2025-03-26 09:52:16,425 : INFO : test_SearchUser_Excel_DDT_006 : User found
+2025-03-26 09:52:16,425 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_005 is Passed
+2025-03-26 09:52:17,606 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_005 is Completed
+
+2025-03-26 09:52:17,787 : INFO : test_SearchUser_Excel_DDT_006 : Entering Username:- Ddmmoo
+2025-03-26 09:52:18,398 : INFO : test_SearchUser_Excel_DDT_006 : CLick on Search User button
+2025-03-26 09:52:18,398 : INFO : test_SearchUser_Excel_DDT_006 : Validate User found or not
+2025-03-26 09:52:38,689 : INFO : test_SearchUser_Excel_DDT_006 : User not found
+2025-03-26 09:52:38,689 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_005 is Passed
+2025-03-26 09:52:39,827 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_005 is Completed
+
+2025-03-26 09:52:39,915 : INFO : test_SearchUser_Excel_DDT_006 : Entering Username:- Ramdev
+2025-03-26 09:52:40,419 : INFO : test_SearchUser_Excel_DDT_006 : CLick on Search User button
+2025-03-26 09:52:40,419 : INFO : test_SearchUser_Excel_DDT_006 : Validate User found or not
+2025-03-26 09:53:00,733 : INFO : test_SearchUser_Excel_DDT_006 : User not found
+2025-03-26 09:53:00,733 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_005 is Passed
+2025-03-26 09:53:01,854 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_005 is Completed
+
+2025-03-26 09:53:02,005 : INFO : test_SearchUser_Excel_DDT_006 : Entering Username:- Raghu
+2025-03-26 09:53:02,560 : INFO : test_SearchUser_Excel_DDT_006 : CLick on Search User button
+2025-03-26 09:53:02,561 : INFO : test_SearchUser_Excel_DDT_006 : Validate User found or not
+2025-03-26 09:53:22,841 : INFO : test_SearchUser_Excel_DDT_006 : User not found
+2025-03-26 09:53:22,841 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_005 is Passed
+2025-03-26 09:53:24,105 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_005 is Completed
+
+2025-03-26 09:57:40,271 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_Excel_DDT_006 is started
+2025-03-26 09:57:40,272 : INFO : test_SearchUser_Excel_DDT_006 : Opening browser
+2025-03-26 09:57:40,272 : INFO : test_SearchUser_Excel_DDT_006 : Launching URL
+2025-03-26 09:57:40,804 : INFO : test_SearchUser_Excel_DDT_006 : Click on login link
+2025-03-26 09:57:40,894 : INFO : test_SearchUser_Excel_DDT_006 : Entering Username:- YashTech
+2025-03-26 09:57:40,947 : INFO : test_SearchUser_Excel_DDT_006 : Entering Password:- YashTech@101
+2025-03-26 09:57:43,752 : INFO : test_SearchUser_Excel_DDT_006 : Click on login button
+2025-03-26 09:57:43,752 : INFO : test_SearchUser_Excel_DDT_006 : Validating User Logged In or not
+2025-03-26 09:57:43,781 : INFO : test_SearchUser_Excel_DDT_006 : User LoggedIn
+2025-03-26 09:57:44,258 : INFO : test_SearchUser_Excel_DDT_006 : Click on User Management button
+2025-03-26 09:57:44,328 : INFO : test_SearchUser_Excel_DDT_006 : Entering Username:- Admin
+2025-03-26 09:57:44,822 : INFO : test_SearchUser_Excel_DDT_006 : CLick on Search User button
+2025-03-26 09:57:44,822 : INFO : test_SearchUser_Excel_DDT_006 : Validate User found or not
+2025-03-26 09:58:14,249 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_Excel_DDT_006 is started
+2025-03-26 09:58:14,250 : INFO : test_SearchUser_Excel_DDT_006 : Opening browser
+2025-03-26 09:58:14,250 : INFO : test_SearchUser_Excel_DDT_006 : Launching URL
+2025-03-26 09:58:15,085 : INFO : test_SearchUser_Excel_DDT_006 : Click on login link
+2025-03-26 09:58:15,167 : INFO : test_SearchUser_Excel_DDT_006 : Entering Username:- YashTech
+2025-03-26 09:58:15,219 : INFO : test_SearchUser_Excel_DDT_006 : Entering Password:- YashTech@101
+2025-03-26 09:58:15,263 : INFO : test_SearchUser_Excel_DDT_006 : Click on login button
+2025-03-26 09:58:15,263 : INFO : test_SearchUser_Excel_DDT_006 : Validating User Logged In or not
+2025-03-26 09:58:16,822 : INFO : test_SearchUser_Excel_DDT_006 : User LoggedIn
+2025-03-26 09:58:17,299 : INFO : test_SearchUser_Excel_DDT_006 : Click on User Management button
+2025-03-26 09:58:17,369 : INFO : test_SearchUser_Excel_DDT_006 : Entering Username:- Admin
+2025-03-26 09:58:17,419 : INFO : test_SearchUser_Excel_DDT_006 : CLick on Search User button
+2025-03-26 09:58:17,419 : INFO : test_SearchUser_Excel_DDT_006 : Validate User found or not
+2025-03-26 09:58:18,038 : INFO : test_SearchUser_Excel_DDT_006 : User found
+2025-03-26 09:58:18,038 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_005 is Passed
+2025-03-26 09:58:19,253 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_005 is Completed
+
+2025-03-26 09:58:19,342 : INFO : test_SearchUser_Excel_DDT_006 : Entering Username:- Yashp
+2025-03-26 09:58:19,808 : INFO : test_SearchUser_Excel_DDT_006 : CLick on Search User button
+2025-03-26 09:58:19,808 : INFO : test_SearchUser_Excel_DDT_006 : Validate User found or not
+2025-03-26 09:58:19,926 : INFO : test_SearchUser_Excel_DDT_006 : User found
+2025-03-26 09:58:19,926 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_005 is Passed
+2025-03-26 09:58:20,903 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_005 is Completed
+
+2025-03-26 09:58:20,985 : INFO : test_SearchUser_Excel_DDT_006 : Entering Username:- Tushar
+2025-03-26 09:58:21,490 : INFO : test_SearchUser_Excel_DDT_006 : CLick on Search User button
+2025-03-26 09:58:21,490 : INFO : test_SearchUser_Excel_DDT_006 : Validate User found or not
+2025-03-26 09:58:21,646 : INFO : test_SearchUser_Excel_DDT_006 : User not found
+2025-03-26 09:58:21,646 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_005 is Failed
+
+2025-03-26 09:58:22,611 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_005 is Completed
+
+2025-03-26 09:58:22,706 : INFO : test_SearchUser_Excel_DDT_006 : Entering Username:- Barclays
+2025-03-26 09:58:23,166 : INFO : test_SearchUser_Excel_DDT_006 : CLick on Search User button
+2025-03-26 09:58:23,167 : INFO : test_SearchUser_Excel_DDT_006 : Validate User found or not
+2025-03-26 09:58:23,294 : INFO : test_SearchUser_Excel_DDT_006 : User found
+2025-03-26 09:58:23,294 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_005 is Passed
+2025-03-26 09:58:24,282 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_005 is Completed
+
+2025-03-26 09:58:24,376 : INFO : test_SearchUser_Excel_DDT_006 : Entering Username:- Ddmmoo
+2025-03-26 09:58:24,419 : INFO : test_SearchUser_Excel_DDT_006 : CLick on Search User button
+2025-03-26 09:58:24,419 : INFO : test_SearchUser_Excel_DDT_006 : Validate User found or not
+2025-03-26 09:58:44,627 : INFO : test_SearchUser_Excel_DDT_006 : User not found
+2025-03-26 09:58:44,627 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_005 is Passed
+2025-03-26 09:58:45,646 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_005 is Completed
+
+2025-03-26 09:58:45,744 : INFO : test_SearchUser_Excel_DDT_006 : Entering Username:- Ramdev
+2025-03-26 09:58:45,788 : INFO : test_SearchUser_Excel_DDT_006 : CLick on Search User button
+2025-03-26 09:58:45,788 : INFO : test_SearchUser_Excel_DDT_006 : Validate User found or not
+2025-03-26 09:59:01,058 : INFO : test_SearchUser_Excel_DDT_006 : User not found
+2025-03-26 09:59:01,058 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_005 is Failed
+
+2025-03-26 09:59:02,097 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_005 is Completed
+
+2025-03-26 09:59:02,219 : INFO : test_SearchUser_Excel_DDT_006 : Entering Username:- Raghu
+2025-03-26 09:59:02,704 : INFO : test_SearchUser_Excel_DDT_006 : CLick on Search User button
+2025-03-26 09:59:02,704 : INFO : test_SearchUser_Excel_DDT_006 : Validate User found or not
+2025-03-26 09:59:22,894 : INFO : test_SearchUser_Excel_DDT_006 : User not found
+2025-03-26 09:59:22,894 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_005 is Passed
+2025-03-26 09:59:23,899 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_005 is Completed
+
+2025-03-26 10:00:16,761 : INFO : test_SearchUser_004 : test_SearchUser_004 is started
+2025-03-26 10:00:16,762 : INFO : test_SearchUser_004 : Opening browser
+2025-03-26 10:00:16,762 : INFO : test_SearchUser_004 : Launching URL
+2025-03-26 10:00:17,289 : INFO : test_SearchUser_004 : test_SearchUser_004 is started
+2025-03-26 10:00:17,289 : INFO : test_SearchUser_004 : Opening browser
+2025-03-26 10:00:17,289 : INFO : test_SearchUser_004 : Launching URL
+2025-03-26 10:00:21,327 : INFO : test_SearchUser_004 : Click on login link
+2025-03-26 10:00:21,645 : INFO : test_SearchUser_004 : Click on login link
+2025-03-26 10:00:21,945 : INFO : test_SearchUser_004 : Entering Username:- YashTech
+2025-03-26 10:00:22,051 : INFO : test_SearchUser_004 : Entering Username:- YashTech
+2025-03-26 10:00:22,150 : INFO : test_SearchUser_004 : Entering Password:- YashTech@101
+2025-03-26 10:00:22,194 : INFO : test_SearchUser_004 : Entering Password:- YashTech@101
+2025-03-26 10:00:24,295 : INFO : test_SearchUser_004 : Click on login button
+2025-03-26 10:00:24,299 : INFO : test_SearchUser_004 : Validating User Logged In or not
+2025-03-26 10:00:24,417 : INFO : test_SearchUser_004 : User LoggedIn
+2025-03-26 10:00:24,604 : INFO : test_SearchUser_004 : Click on login button
+2025-03-26 10:00:24,605 : INFO : test_SearchUser_004 : Validating User Logged In or not
+2025-03-26 10:00:24,728 : INFO : test_SearchUser_004 : User LoggedIn
+2025-03-26 10:00:25,093 : INFO : test_SearchUser_004 : Click on User Management button
+2025-03-26 10:00:25,370 : INFO : test_SearchUser_004 : Click on User Management button
+2025-03-26 10:00:25,529 : INFO : test_SearchUser_004 : Entering Username:- Tushar
+2025-03-26 10:00:25,593 : INFO : test_SearchUser_004 : Entering Username:- Tushar
+2025-03-26 10:00:26,079 : INFO : test_SearchUser_004 : CLick on Search User button
+2025-03-26 10:00:26,080 : INFO : test_SearchUser_004 : Validate User found or not
+2025-03-26 10:00:26,305 : INFO : test_SearchUser_004 : User found
+2025-03-26 10:00:26,305 : INFO : test_SearchUser_004 : Capturing screenshot
+2025-03-26 10:00:26,312 : INFO : test_SearchUser_004 : CLick on Search User button
+2025-03-26 10:00:26,314 : INFO : test_SearchUser_004 : Validate User found or not
+2025-03-26 10:00:26,558 : INFO : test_SearchUser_004 : User found
+2025-03-26 10:00:26,558 : INFO : test_SearchUser_004 : Capturing screenshot
+2025-03-26 10:00:26,844 : INFO : test_SearchUser_004 : test_SearchUser_004 is Passed
+2025-03-26 10:00:26,844 : INFO : test_SearchUser_004 : test_SearchUser_004 is Completed
+
+2025-03-26 10:00:27,006 : INFO : test_SearchUser_004 : test_SearchUser_004 is Passed
+2025-03-26 10:00:27,006 : INFO : test_SearchUser_004 : test_SearchUser_004 is Completed
+
+2025-03-26 10:00:32,256 : INFO : test_BankApp_URL_001 : test_BankApp_URL_001 is started
+2025-03-26 10:00:32,256 : INFO : test_BankApp_URL_001 : Opening browser
+2025-03-26 10:00:32,256 : INFO : test_BankApp_URL_001 : Launching URL
+2025-03-26 10:00:32,258 : INFO : test_BankApp_URL_001 : Validating launching correct page or not
+2025-03-26 10:00:33,924 : INFO : test_BankApp_URL_001 : test_BankApp_URL_001 is started
+2025-03-26 10:00:33,924 : INFO : test_BankApp_URL_001 : Opening browser
+2025-03-26 10:00:33,924 : INFO : test_BankApp_URL_001 : Launching URL
+2025-03-26 10:00:33,924 : INFO : test_BankApp_URL_001 : Validating launching correct page or not
+2025-03-26 10:00:33,969 : INFO : test_BankApp_URL_001 : Launching on correct page
+2025-03-26 10:00:33,969 : INFO : test_BankApp_URL_001 : Capturing test_BankApp_URL_001_Pass screenshot
+2025-03-26 10:00:34,108 : INFO : test_BankApp_URL_001 : Launching on correct page
+2025-03-26 10:00:34,108 : INFO : test_BankApp_URL_001 : Capturing test_BankApp_URL_001_Pass screenshot
+2025-03-26 10:00:34,894 : INFO : test_BankApp_URL_001 : test_BankApp_URL_001 is Passed
+2025-03-26 10:00:34,894 : INFO : test_BankApp_URL_001 : test_BankApp_URL_001 is Completed
+
+2025-03-26 10:00:35,015 : INFO : test_BankApp_URL_001 : test_BankApp_URL_001 is Passed
+2025-03-26 10:00:35,016 : INFO : test_BankApp_URL_001 : test_BankApp_URL_001 is Completed
+
+2025-03-26 10:00:39,916 : INFO : test_Signup_002 : test_Signup_002 is started
+2025-03-26 10:00:39,917 : INFO : test_Signup_002 : Opening browser
+2025-03-26 10:00:39,917 : INFO : test_Signup_002 : Launching URL
+2025-03-26 10:00:39,917 : INFO : test_Signup_002 : Click on SignUp link
+2025-03-26 10:00:42,045 : INFO : test_Signup_002 : test_Signup_002 is started
+2025-03-26 10:00:42,046 : INFO : test_Signup_002 : Opening browser
+2025-03-26 10:00:42,046 : INFO : test_Signup_002 : Launching URL
+2025-03-26 10:00:42,046 : INFO : test_Signup_002 : Click on SignUp link
+2025-03-26 10:00:43,126 : INFO : test_Signup_002 : Enter Username:- Useru2Oi
+2025-03-26 10:00:43,279 : INFO : test_Signup_002 : Enter Password:- MyPass@101
+2025-03-26 10:00:43,488 : INFO : test_Signup_002 : Enter Email:- Useru2Oi@gmail.com
+2025-03-26 10:00:43,509 : INFO : test_Signup_002 : Enter Username:- Userppsa
+2025-03-26 10:00:43,576 : INFO : test_Signup_002 : Enter Phone Number:- 5013364919
+2025-03-26 10:00:43,576 : INFO : test_Signup_002 : Click on Create User button
+2025-03-26 10:00:43,610 : INFO : test_Signup_002 : Enter Password:- MyPass@101
+2025-03-26 10:00:43,692 : INFO : test_Signup_002 : Enter Email:- Userppsa@gmail.com
+2025-03-26 10:00:43,765 : INFO : test_Signup_002 : Enter Phone Number:- 2502845942
+2025-03-26 10:00:43,765 : INFO : test_Signup_002 : Click on Create User button
+2025-03-26 10:00:46,197 : INFO : test_Signup_002 : Validating User Created or not
+2025-03-26 10:00:46,215 : INFO : test_Signup_002 : User created successfully
+2025-03-26 10:00:46,215 : INFO : test_Signup_002 : Capturing test_Signup_002_Pass screenshot
+2025-03-26 10:00:46,371 : INFO : test_Signup_002 : Validating User Created or not
+2025-03-26 10:00:46,392 : INFO : test_Signup_002 : User created successfully
+2025-03-26 10:00:46,392 : INFO : test_Signup_002 : Capturing test_Signup_002_Pass screenshot
+2025-03-26 10:00:47,197 : INFO : test_Signup_002 : test_Signup_002 is Passed
+2025-03-26 10:00:47,197 : INFO : test_Signup_002 : test_Signup_002 is completed
+
+2025-03-26 10:00:47,402 : INFO : test_Signup_002 : test_Signup_002 is Passed
+2025-03-26 10:00:47,402 : INFO : test_Signup_002 : test_Signup_002 is completed
+
+2025-03-26 10:00:53,624 : INFO : test_UserLogin_003 : test_UserLogin_003 is started
+2025-03-26 10:00:53,624 : INFO : test_UserLogin_003 : Opening browser
+2025-03-26 10:00:53,625 : INFO : test_UserLogin_003 : Launching URL
+2025-03-26 10:00:53,625 : INFO : test_UserLogin_003 : Click on Log In link
+2025-03-26 10:00:53,898 : INFO : test_UserLogin_003 : test_UserLogin_003 is started
+2025-03-26 10:00:53,900 : INFO : test_UserLogin_003 : Opening browser
+2025-03-26 10:00:53,901 : INFO : test_UserLogin_003 : Launching URL
+2025-03-26 10:00:53,901 : INFO : test_UserLogin_003 : Click on Log In link
+2025-03-26 10:00:54,792 : INFO : test_UserLogin_003 : Entering Username:- YashTech
+2025-03-26 10:00:55,003 : INFO : test_UserLogin_003 : Entering Password:- YashTech@101
+2025-03-26 10:00:55,006 : INFO : test_UserLogin_003 : Click on Log In button
+2025-03-26 10:00:55,055 : INFO : test_UserLogin_003 : Entering Username:- YashTech
+2025-03-26 10:00:55,189 : INFO : test_UserLogin_003 : Entering Password:- YashTech@101
+2025-03-26 10:00:55,189 : INFO : test_UserLogin_003 : Click on Log In button
+2025-03-26 10:00:56,642 : INFO : test_UserLogin_003 : Validating User Logged In or not
+2025-03-26 10:00:56,703 : INFO : test_UserLogin_003 : Validating User Logged In or not
+2025-03-26 10:00:56,762 : INFO : test_UserLogin_003 : User LoggedIn
+2025-03-26 10:00:56,762 : INFO : test_UserLogin_003 : Capturing test_UserLogin_003_Pass screenshot
+2025-03-26 10:00:56,844 : INFO : test_UserLogin_003 : User LoggedIn
+2025-03-26 10:00:56,844 : INFO : test_UserLogin_003 : Capturing test_UserLogin_003_Pass screenshot
+2025-03-26 10:00:57,583 : INFO : test_UserLogin_003 : test_UserLogin_003 is Passed
+2025-03-26 10:00:57,583 : INFO : test_UserLogin_003 : test_UserLogin_003 is completed
+
+2025-03-26 10:00:57,660 : INFO : test_UserLogin_003 : test_UserLogin_003 is Passed
+2025-03-26 10:00:57,660 : INFO : test_UserLogin_003 : test_UserLogin_003 is completed
+
+2025-03-26 10:02:53,532 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_Excel_DDT_006 is started
+2025-03-26 10:02:53,532 : INFO : test_SearchUser_Excel_DDT_006 : Opening browser
+2025-03-26 10:02:53,532 : INFO : test_SearchUser_Excel_DDT_006 : Launching URL
+2025-03-26 10:02:54,422 : INFO : test_SearchUser_Excel_DDT_006 : Click on login link
+2025-03-26 10:02:54,515 : INFO : test_SearchUser_Excel_DDT_006 : Entering Username:- YashTech
+2025-03-26 10:02:54,579 : INFO : test_SearchUser_Excel_DDT_006 : Entering Password:- YashTech@101
+2025-03-26 10:02:54,631 : INFO : test_SearchUser_Excel_DDT_006 : Click on login button
+2025-03-26 10:02:54,631 : INFO : test_SearchUser_Excel_DDT_006 : Validating User Logged In or not
+2025-03-26 10:02:56,685 : INFO : test_SearchUser_Excel_DDT_006 : User LoggedIn
+2025-03-26 10:02:57,184 : INFO : test_SearchUser_Excel_DDT_006 : Click on User Management button
+2025-03-26 10:02:57,292 : INFO : test_SearchUser_Excel_DDT_006 : Entering Username:- Admin
+2025-03-26 10:02:57,800 : INFO : test_SearchUser_Excel_DDT_006 : CLick on Search User button
+2025-03-26 10:02:57,801 : INFO : test_SearchUser_Excel_DDT_006 : Validate User found or not
+2025-03-26 10:02:57,917 : INFO : test_SearchUser_Excel_DDT_006 : User found
+2025-03-26 10:02:57,917 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_005 is Passed
+2025-03-26 10:02:58,924 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_005 is Completed
+
+2025-03-26 10:02:59,027 : INFO : test_SearchUser_Excel_DDT_006 : Entering Username:- Yashp
+2025-03-26 10:02:59,513 : INFO : test_SearchUser_Excel_DDT_006 : CLick on Search User button
+2025-03-26 10:02:59,514 : INFO : test_SearchUser_Excel_DDT_006 : Validate User found or not
+2025-03-26 10:02:59,665 : INFO : test_SearchUser_Excel_DDT_006 : User found
+2025-03-26 10:02:59,665 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_005 is Passed
+2025-03-26 10:03:00,724 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_005 is Completed
+
+2025-03-26 10:03:00,834 : INFO : test_SearchUser_Excel_DDT_006 : Entering Username:- Tushar
+2025-03-26 10:03:00,880 : INFO : test_SearchUser_Excel_DDT_006 : CLick on Search User button
+2025-03-26 10:03:00,880 : INFO : test_SearchUser_Excel_DDT_006 : Validate User found or not
+2025-03-26 10:03:01,459 : INFO : test_SearchUser_Excel_DDT_006 : User found
+2025-03-26 10:03:01,459 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_005 is Passed
+2025-03-26 10:03:02,444 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_005 is Completed
+
+2025-03-26 10:03:02,545 : INFO : test_SearchUser_Excel_DDT_006 : Entering Username:- Barclays
+2025-03-26 10:03:03,025 : INFO : test_SearchUser_Excel_DDT_006 : CLick on Search User button
+2025-03-26 10:03:03,025 : INFO : test_SearchUser_Excel_DDT_006 : Validate User found or not
+2025-03-26 10:03:03,159 : INFO : test_SearchUser_Excel_DDT_006 : User found
+2025-03-26 10:03:03,159 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_005 is Passed
+2025-03-26 10:03:04,569 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_005 is Completed
+
+2025-03-26 10:03:04,683 : INFO : test_SearchUser_Excel_DDT_006 : Entering Username:- Ddmmoo
+2025-03-26 10:03:04,724 : INFO : test_SearchUser_Excel_DDT_006 : CLick on Search User button
+2025-03-26 10:03:04,724 : INFO : test_SearchUser_Excel_DDT_006 : Validate User found or not
+2025-03-26 10:03:25,030 : INFO : test_SearchUser_Excel_DDT_006 : User not found
+2025-03-26 10:03:25,030 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_005 is Passed
+2025-03-26 10:03:26,110 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_005 is Completed
+
+2025-03-26 10:03:26,235 : INFO : test_SearchUser_Excel_DDT_006 : Entering Username:- Ramdev
+2025-03-26 10:03:26,330 : INFO : test_SearchUser_Excel_DDT_006 : CLick on Search User button
+2025-03-26 10:03:26,330 : INFO : test_SearchUser_Excel_DDT_006 : Validate User found or not
+2025-03-26 10:03:46,591 : INFO : test_SearchUser_Excel_DDT_006 : User not found
+2025-03-26 10:03:46,591 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_005 is Passed
+2025-03-26 10:03:48,122 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_005 is Completed
+
+2025-03-26 10:03:48,256 : INFO : test_SearchUser_Excel_DDT_006 : Entering Username:- Raghu
+2025-03-26 10:03:48,353 : INFO : test_SearchUser_Excel_DDT_006 : CLick on Search User button
+2025-03-26 10:03:48,353 : INFO : test_SearchUser_Excel_DDT_006 : Validate User found or not
+2025-03-26 10:04:08,636 : INFO : test_SearchUser_Excel_DDT_006 : User not found
+2025-03-26 10:04:08,636 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_005 is Passed
+2025-03-26 10:04:09,714 : INFO : test_SearchUser_Excel_DDT_006 : test_SearchUser_005 is Completed
+
+2025-03-26 10:04:09,714 : INFO : test_SearchUser_Excel_DDT_006 : Number of 'pass' test cases--> 7
+2025-03-26 10:04:09,714 : INFO : test_SearchUser_Excel_DDT_006 : Number of 'pass' test cases--> 0
