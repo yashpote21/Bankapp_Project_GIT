@@ -5,12 +5,16 @@ class Login_Class:
 
     # XPATH for Login link
     Login_Link_XPATH = "//a[normalize-space()='Login']"
+    
     # XPATH for Username
     Text_Username_XPATH = "//input[@id='username']"
+    
     # XPATH for Password
     Text_Password_XPATH = "//input[@id='password']"
+    
     # XPATH for Login button
     Click_Login_Button_XPATH = "//button[@id='loginButton']"
+    
     # XPATH for validate User Login
     Validate_Login_XPATH = "//h2[normalize-space()='Dashboard']"
 
